@@ -1,12 +1,10 @@
 # 2024 Tech Internships
-Use this repo to share and keep track of software, tech, CS, PM, quant internships for **2024**. List copied by the [Pitt Computer Science Club](https://pittcsc.org/)!
+Use this repo to share and keep track of software, tech, CS, PM, and quant internships for **2024**. List forked from the [Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2024-Internships)!
 
-:warning: **This repository is only for internships/co-ops in Europe, the Middle East, Africa or for Remote positions :earth_europe:.**
+:warning: **This repository is only for internships/co-ops in Europe, the Middle East, Africa, or for Remote positions 🌍:.**
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
-
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
-<!-- Please leave a one line gap between this and the table -->
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/ArnoClaude/2024-Tech-Internships-EMEA/blob/dev/CONTRIBUTING.md)!** 🙏
+<!-- Please leave a one-line gap between this and the table -->
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
@@ -36,12 +34,5 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
 
-<!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
-
-## We love our contributors ❤️❤️
+<!-- Please leave a one-line gap between this and the table -->
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
