@@ -1,7 +1,7 @@
 # 2024 Tech Internships
 Use this repo to share and keep track of software, tech, CS, PM, and quant internships for **2024**. List forked from the [Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2024-Internships)!
 
-:warning: **This repository is only for internships/co-ops in Europe, the Middle East, Africa, or for Remote positions 🌍:.**
+:warning: **This repository is only for internships/co-ops in Europe, the Middle East, Africa, or for Remote positions 🌍.**
 
 🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/ArnoClaude/2024-Tech-Internships-EMEA/blob/dev/CONTRIBUTING.md)!** 🙏
 <!-- Please leave a one-line gap between this and the table -->
